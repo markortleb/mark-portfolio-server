@@ -1,0 +1,9 @@
+markortleb.com {
+    reverse_proxy localhost:8000
+}
+
+etch-a-sketch.markortleb.com {
+    reverse_proxy localhost:8001
+}
+
+
