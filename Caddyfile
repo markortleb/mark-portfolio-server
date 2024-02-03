@@ -1,8 +1,10 @@
 markortleb.com {
+    bind 0.0.0.0:80
     reverse_proxy localhost:8000
 }
 
 etch-a-sketch.markortleb.com {
+    bind 0.0.0.0:80
     reverse_proxy localhost:8001
 }
 
