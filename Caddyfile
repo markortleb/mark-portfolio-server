@@ -14,4 +14,34 @@ tic-tac-toe.markortleb.com {
     reverse_proxy localhost:8003
 }
 
+calculator.markortleb.com {
+    reverse_proxy localhost:8004
+}
 
+todoapp.markortleb.com {
+    reverse_proxy localhost:8005
+}
+
+library-app.markortleb.com {
+    reverse_proxy localhost:8006
+}
+
+tennis.markortleb.com {
+    reverse_proxy localhost:8007
+}
+
+weather.markortleb.com {
+    reverse_proxy localhost:8008
+}
+
+memory-game.markortleb.com {
+    reverse_proxy localhost:8009
+}
+
+battleship.markortleb.com {
+    reverse_proxy localhost:8010
+}
+
+cv-maker.markortleb.com {
+    reverse_proxy localhost:8011
+}
