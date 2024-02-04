@@ -6,4 +6,12 @@ etch-a-sketch.markortleb.com {
     reverse_proxy localhost:8001
 }
 
+pizza-cafe.markortleb.com {
+    reverse_proxy localhost:8002
+}
+
+tic-tac-toe.markortleb.com {
+    reverse_proxy localhost:8003
+}
+
 
